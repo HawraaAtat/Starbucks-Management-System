@@ -24,22 +24,37 @@ Unlike the employees, admins have the right to use all employee features.
 
 You will find some pitures of this project below:
 
+
 place an order:
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/104064533/164467081-ffe05cf6-1192-4a63-bd0b-e5e7f50f063c.png)
 
+
 Login page:
+
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/104064533/164509256-e81f50d8-b1b3-4157-98c5-0267752ebbc8.png)
+
+
 ![photo_2022-04-21_19-33-01](https://user-images.githubusercontent.com/104064533/164508882-511b167a-8291-4be9-966c-5c035727cc42.jpg)
 
+
 quiz game:
+
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/104064533/164467339-b2cdeb41-f2d6-4f48-a409-57364fd8f7a9.png)
 
+
 Quiz results is shown below:
+
 ![photo_2022-04-21_19-33-10](https://user-images.githubusercontent.com/104064533/164508318-b4d12231-f315-481d-acaa-19c82746c466.jpg)
 
+
 user side:
+
 ![photo_2022-04-21_19-33-08](https://user-images.githubusercontent.com/104064533/164508831-6e71b7da-46ce-4d2c-8697-a8a0d96d57e0.jpg)
 
+
 More buttons appear in the admin side:
+
 ![photo_2022-04-21_19-33-07](https://user-images.githubusercontent.com/104064533/164508583-80e27109-9276-4459-b828-0ae986dbd69b.jpg)
 
 
