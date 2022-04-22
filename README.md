@@ -35,9 +35,6 @@ Login page:
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/104064533/164509256-e81f50d8-b1b3-4157-98c5-0267752ebbc8.png)
 
 
-![photo_2022-04-21_19-33-01](https://user-images.githubusercontent.com/104064533/164508882-511b167a-8291-4be9-966c-5c035727cc42.jpg)
-
-
 quiz game:
 
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/104064533/164467339-b2cdeb41-f2d6-4f48-a409-57364fd8f7a9.png)
